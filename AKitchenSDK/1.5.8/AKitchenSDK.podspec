@@ -9,7 +9,7 @@ Pod::Spec.new do |spec|
 
   spec.platform     = :ios, "9.0"
 
-  spec.source       = { :http => "https://bitbucket.org/kingiol/akitchensdk/raw/155e0cb77a59883ae32c21894cf810f1f7dd420a/AKitchenSDK1.5.8.zip" }
+  spec.source       = { :http => "https://bitbucket.org/kingiol/akitchensdk/raw/f4177eda92da0fc5ec7bd6862c64ef6a9a4bea5d/AKitchenSDK1.5.8.zip" }
   spec.vendored_frameworks = '*/AKitchenSDK.framework'
 
   spec.swift_version = '5'
